@@ -42,3 +42,12 @@ The **Customer Trends Data Analysis** project explores customer purchasing behav
 - Interactive filters and drill-downs  
 - Trend comparisons across time periods
 
+## 📈 Results & Insights
+
+This project highlights:
+- Seasonal trends in customer purchases  
+- High-value customer identification  
+- Revenue and sales performance patterns  
+- Interactive dashboard for business decision support
+
+
